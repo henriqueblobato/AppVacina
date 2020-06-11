@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "388631605806",
+    "firebase_url": "https://curso-fb-244d1.firebaseio.com",
+    "project_id": "curso-fb-244d1",
+    "storage_bucket": "curso-fb-244d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388631605806:android:7a70d2d0387870711f25bf",
+        "android_client_info": {
+          "package_name": "com.usf.appvacina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388631605806-tjjrihi56nqsechoic09ch042262s72j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.usf.appvacina",
+            "certificate_hash": "8572d7906fa56c5b24e7ecc89e6c3d5951a5c5c9"
+          }
+        },
+        {
+          "client_id": "388631605806-rdo0ut05sjk7p356mhv5cm228q5d6h87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn7ZePp-_Tb07sistCjO9eqlslRriMNLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388631605806-rdo0ut05sjk7p356mhv5cm228q5d6h87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
